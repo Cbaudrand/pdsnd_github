@@ -19,6 +19,7 @@ def get_filters():
 	
 	#get user input for city
 	#refactoring update 1
+	#refactoring update 2
 	print('Hello! Let\'s explore some US bikeshare data!')
 	city = 'tet'
 	while True: 
